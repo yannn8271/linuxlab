@@ -1,5 +1,6 @@
 # linuxlab
 bash scripting mastery cc4.1
+
 echo -n "CPU Info" 
 lscpu | grep Model
 
